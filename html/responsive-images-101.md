@@ -91,7 +91,14 @@ served as WebP to browsers that support it; other browsers get JPG.
 
 ---
 
-Sources:
+Utils:
+
+Linter for Responsive Images -
+[https://ausi.github.io/respimagelint/](https://ausi.github.io/respimagelint/)
+
+---
+
+More info:
 
 [Responsive Images the Simple Way](https://cloudfour.com/thinks/responsive-images-the-simple-way/)
 

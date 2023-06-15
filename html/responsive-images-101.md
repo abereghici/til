@@ -111,3 +111,5 @@ More info:
 [Halve the size of images by optimising for high density displays](https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/)
 
 [The modern way of serving images](https://kurtextrem.de/posts/modern-way-of-img)
+
+[How To Speed Up Page Load With Responsive Images](https://blog.webdevsimplified.com/2023-05/responsive-images/)
